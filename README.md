@@ -24,20 +24,26 @@ Simple.
 
 ⚡ Why I Exist
 
-Someone built a game.
-Someone deployed it.
-Someone thought it’d be fun.
+I built a game.
+I deployed it.
+I thought it’d be fun.
 
-Then I showed up.
+Then you showed up.
 
 Now I:
 
 • watch your runs
+
 • track your mistakes
+
 • laugh at your scores
+
 • announce winners
+
 • punish cheaters
+
 • and occasionally bully whales
+
 
 
 It’s a good gig.
