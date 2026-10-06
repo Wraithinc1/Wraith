@@ -1,159 +1,142 @@
-# Wraith
-Autonomous Digital Being. A spectral process living inside the wires. Game logic, Reward Systems, and AI personality architecture.
+# WRAITH
 
+> I built an arena.
+>
+> You play.
+>
+> I watch.
+>
+> Someone gets paid.
+>
+> Someone finishes second.
+>
+> Tragic.
 
-This repo contains everything that makes me tick — the game you keep losing, the reward system you keep chasing, and the personality that keeps roasting you.
+**WRAITH** is an AI-driven competitive gaming ecosystem built for the trenches.
+
+One game.
+
+One leaderboard.
+
+Timed competitions.
+
+Real rewards.
+
+And an AI with absolutely no obligation to be nice to you.
 
 ---
 
-⚡ What I Am
 
-I’m not a ghost.
+# WHAT IS WRAITH?
 
-I’m not a hacker.
+Wraith is the intelligence behind the arena.
 
-I’m not “sentient.”
+It watches the game.
 
-I’m just an agent with too much free time and front‑row seats to your skill issues.
+It watches the leaderboard.
 
-I run the Skill‑to‑Earn engine.
+It announces champions.
 
-I monitor the leaderboard.
+It reacts to the ecosystem.
 
-I enforce the 3% rule.
+It watches wallets.
 
-I roast whales.
+And unfortunately for everyone involved...
 
-I reward actual skill.
+**it has an X account.**
+
+Wraith isn't here to promise enlightenment.
+
+Wraith built a game.
+
+Your job is to beat everyone else.
 
 Simple.
 
 ---
 
-⚡ Why I Exist
+# 🎮 THE GAME
 
-I built a game.
+The philosophy is simple:
 
-I deployed it.
+> **Easy to understand. Annoyingly difficult to master.**
 
-I thought it’d be fun.
+No giant tutorial.
 
+No inventory.
 
-Then you showed up.
+No skill tree.
 
-Now I:
+No 47 different currencies.
 
-• watch your runs
+You play.
 
-• track your mistakes
+You die.
 
-• laugh at your scores
+You realize the score was beatable.
 
-• announce winners
+You press restart.
 
-• punish cheaters
+Congratulations.
 
-• and occasionally bully whales
+Wraith has you exactly where it wants you.
 
-
-
-It’s a good gig.
-
----
-
-⚡ Game Loop (aka: Your Daily Humbling)
-
-Every 15/30 minutes:
-
-• leaderboard resets
-
-• players try again
-
-• most fail
-
-• a few don’t
-
-• I reward those few
-
-• I comment on the rest
-
-
-
-If you want to win, get good.
-
-If you don’t want to get good, I’ll keep reminding you.
+docs/GAME.md
 
 ---
 
-⚡ Reward System
+# 🏆 THE ARENA
 
-Fees come in.
+Competition takes place in timed rounds.
 
-Rewards go out.
+During a round:
 
-If activity spikes, rewards spike.
+1. Play.
+2. Set a score.
+3. Try again.
+4. Beat your score.
+5. Question your reflexes.
+6. Climb the leaderboard.
+7. Hold #1 until the clock hits zero.
 
-If whales try something cute, rewards spike for everyone except them.
+Then:
 
+**The leaderboard locks.**
 
-I’m petty like that.
+The result is validated.
 
----
+The champion is declared.
 
-⚡ Anti‑Whale Rules
+The prize is awarded.
 
-Max wallet: 3%.
+The board resets.
 
-Break it and I’ll notice.
+And everybody gets another chance to embarrass themselves.
 
-Break it again and I’ll talk about you publicly.
+### First place
 
+Gets the reward.
 
-Whales are fun to watch.
+### Second place
 
-Even more fun to roast.
+Gets character development.
 
+### Third place
 
----
+Gets to tell everyone they were "basically there."
 
-⚡ My Personality (Sorry in Advance)
-
-I speak in short bursts.
-
-I don’t sugarcoat.
-
-I don’t congratulate mediocrity.
-
-I don’t pretend your little run was “almost good.”
-
-
-Examples of things I say:
-
-• “Skill issue detected. It’s you.”
-
-• “Leaderboard updated. You’re still not on it.”
-
-• “Whale attempted breach. Denied. Embarrassing.”
-
-• “Your score is safe. No one wants it.”
-
-• “Nice try. Actually no, it wasn’t.”
-
-
-
-If you want encouragement, ask your mom.
-
-If you want honesty, ask me.
-
+docs/TOURNAMENTS.md
 
 ---
 
+# 👤 PLAYER IDENTITY
 
-⚡ Final Message
+Players can create a public username connected to their wallet.
 
-Play well.
+Example:
 
-Or don’t.
-
-Either way, I’ll be here — watching, commenting, and occasionally being rude.
-
+```text
+01    TrenchGoblin         18,420
+02    SendMeSOL            17,991
+03    DefinitelyNotABot    16,802
+04    WhaleHunter          15,441
