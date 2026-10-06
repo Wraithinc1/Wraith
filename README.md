@@ -12,7 +12,7 @@
 >
 > Tragic.
 
-**WRAITH** is an AI-driven competitive gaming ecosystem built for the trenches.
+**WRAITH** is an agent-driven competitive gaming ecosystem built for the trenches.
 
 One game.
 
@@ -22,7 +22,7 @@ Timed competitions.
 
 Real rewards.
 
-And an AI with absolutely no obligation to be nice to you.
+And an agent with absolutely no obligation to be nice to you.
 
 ---
 
@@ -125,7 +125,6 @@ Gets character development.
 
 Gets to tell everyone they were "basically there."
 
-docs/TOURNAMENTS.md
 
 ---
 
