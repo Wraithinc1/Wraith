@@ -75,13 +75,12 @@ You die.
 
 You realize the score was beatable.
 
-You press restart.
+You restart.
 
 Congratulations.
 
 Wraith has you exactly where it wants you.
 
-docs/GAME.md
 
 ---
 
